@@ -1,2 +1,2 @@
 # Projects
-Checkers - A checkers game i created in the last semester, was written in C#.
+Checkers - A checkers game i created with a friend in the last semester, was written in C#.
