@@ -1,0 +1,16 @@
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\DamkaForm.exe.config
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\DamkaForm.exe
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\DamkaForm.pdb
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\GameLogic.dll
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\GameLogic.pdb
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\bin\Debug\GameLogic.dll.config
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.csproj.AssemblyReference.cache
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.Damka.resources
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.GameSettings.resources
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.Properties.Resource1.resources
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.Properties.Resources.resources
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.csproj.GenerateResource.cache
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.csproj.CoreCompileInputs.cache
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.csproj.CopyComplete
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.exe
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\DamkaForm\obj\Debug\DamkaForm.pdb

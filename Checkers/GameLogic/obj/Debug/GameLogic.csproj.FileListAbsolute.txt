@@ -1,0 +1,7 @@
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\bin\Debug\GameLogic.dll.config
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\bin\Debug\GameLogic.dll
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\bin\Debug\GameLogic.pdb
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\obj\Debug\GameLogic.csproj.AssemblyReference.cache
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\obj\Debug\GameLogic.csproj.CoreCompileInputs.cache
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\obj\Debug\GameLogic.dll
+C:\Users\ranbr\OneDrive - The Interdisciplinary Center Herzliya IDC\לימודים\GitHub Projects\Projects\Chess\Chess\GameLogic\obj\Debug\GameLogic.pdb
